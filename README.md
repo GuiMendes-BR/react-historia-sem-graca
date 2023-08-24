@@ -41,6 +41,9 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 
 ## Learn More
 
+![image](https://github.com/GuiMendes-BR/react-historia-sem-graca/assets/62455090/ff81d144-a913-4267-86b9-18740d42aec4)
+
+
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
 To learn React, check out the [React documentation](https://reactjs.org/).
